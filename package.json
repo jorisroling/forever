@@ -34,7 +34,8 @@
     "timespan": "2.0.x",
     "watch": "0.5.x",
     "utile": "0.0.x",
-    "winston": "0.5.x"
+    "winston": "0.5.x",
+	"tail": ""
   },
   "devDependencies": {
     "daemon": "0.3.x >=0.3.2",
